@@ -1,4 +1,4 @@
-[![MasterHead](https://enterprisersproject.com/sites/default/files/styles/google_discover/public/images/cio_rpa_robot_automation.png?itok=XnfunrRl)]
+[![MasterHead](https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)]
 
 <h1 align="center"> I'm Dikshant Khobragade</h1>
 <h3 align="center">An inquisitive person</h3>
